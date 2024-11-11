@@ -98,7 +98,6 @@ const CDRComponent = () => {
             />
           </div>
 
-          {/* Status Field with Dropdown */}
           <div className="flex flex-col w-full sm:w-1/4">
             <label
               htmlFor="status"
